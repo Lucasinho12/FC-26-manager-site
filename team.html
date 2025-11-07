@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FC Manager 26 – Équipe</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body data-page="team">
+  <header>
+    <h1>Composer votre équipe</h1>
+    <nav>
+      <a href="index.html">Accueil</a>
+      <a href="team.html" class="active">Équipe</a>
+      <a href="transfers.html">Transferts</a>
+      <a href="budget.html">Budget</a>
+    </nav>
+  </header>
+  <main>
+    <div class="form-group">
+      <label for="formation-select">Formation</label>
+      <select id="formation-select"></select>
+    </div>
+    <table>
+      <thead>
+        <tr>
+          <th>Position</th>
+          <th>Joueur</th>
+          <th>Rôle recommandé</th>
+        </tr>
+      </thead>
+      <tbody id="team-table-body">
+        <!-- Rows filled by script -->
+      </tbody>
+    </table>
+    <p>Vos sélections sont automatiquement enregistrées localement.</p>
+  </main>
+  <script src="js/app.js"></script>
+</body>
+</html>

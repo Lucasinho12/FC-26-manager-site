@@ -1,0 +1,122 @@
+[
+  {
+    "player_id": 231747,
+    "name": "Kylian Mbappé",
+    "positions": "ST,LW,LM",
+    "overall": 91,
+    "potential": 94,
+    "value": 173500000,
+    "club": "Real Madrid",
+    "country": "France"
+  },
+  {
+    "player_id": 209331,
+    "name": "Mohamed Salah",
+    "positions": "RM,RW",
+    "overall": 91,
+    "potential": 91,
+    "value": 82000000,
+    "club": "Liverpool",
+    "country": "Egypt"
+  },
+  {
+    "player_id": 252371,
+    "name": "Jude Bellingham",
+    "positions": "CAM,CM",
+    "overall": 90,
+    "potential": 94,
+    "value": 174500000,
+    "club": "Real Madrid",
+    "country": "England"
+  },
+  {
+    "player_id": 239085,
+    "name": "Erling Haaland",
+    "positions": "ST",
+    "overall": 90,
+    "potential": 92,
+    "value": 157000000,
+    "club": "Manchester City",
+    "country": "Norway"
+  },
+  {
+    "player_id": 231866,
+    "name": "Rodri",
+    "positions": "CDM,CM",
+    "overall": 90,
+    "potential": 90,
+    "value": 102000000,
+    "club": "Manchester City",
+    "country": "Spain"
+  },
+  {
+    "player_id": 231443,
+    "name": "Ousmane Dembélé",
+    "positions": "ST,RW,CAM",
+    "overall": 90,
+    "potential": 90,
+    "value": 122500000,
+    "club": "Paris Saint‑Germain",
+    "country": "France"
+  },
+  {
+    "player_id": 203376,
+    "name": "Virgil van Dijk",
+    "positions": "CB",
+    "overall": 90,
+    "potential": 90,
+    "value": 57000000,
+    "club": "Liverpool",
+    "country": "Netherlands"
+  },
+  {
+    "player_id": 277643,
+    "name": "Lamine Yamal",
+    "positions": "RM,RW",
+    "overall": 89,
+    "potential": 95,
+    "value": 147000000,
+    "club": "FC Barcelona",
+    "country": "Spain"
+  },
+  {
+    "player_id": 256630,
+    "name": "Florian Wirtz",
+    "positions": "CAM,ST,CM",
+    "overall": 89,
+    "potential": 93,
+    "value": 150500000,
+    "club": "Liverpool",
+    "country": "Germany"
+  },
+  {
+    "player_id": 255253,
+    "name": "Vitinha",
+    "positions": "CM,CDM,CAM",
+    "overall": 89,
+    "potential": 91,
+    "value": 128500000,
+    "club": "Paris Saint‑Germain",
+    "country": "Portugal"
+  },
+  {
+    "player_id": 251854,
+    "name": "Pedri",
+    "positions": "CM,CDM,CAM",
+    "overall": 89,
+    "potential": 93,
+    "value": 149500000,
+    "club": "FC Barcelona",
+    "country": "Spain"
+  },
+  {
+    "player_id": 235212,
+    "name": "Achraf Hakimi",
+    "positions": "RB,RM",
+    "overall": 89,
+    "potential": 90,
+    "value": 111000000,
+    "club": "Paris Saint‑Germain",
+    "country": "Morocco"
+  }
+]
